@@ -13,9 +13,9 @@
 
 <h2 align="left">☕ Get in Touch</h2>
 <p align="left">
-    <a href="https://www.linkedin.com/in/sreedhar-mukkamalla/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shivangikochrekar" /></a>
+    <a href="https://www.linkedin.com/in/sreedhar-mukkamalla/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sreedharreddymukkamalla" /></a>
     &nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/Sreedharreddym" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shivangik01" /></a>
+    <a href="https://www.hackerrank.com/Sreedharreddym" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Sreedharreddymukkamalla" /></a>
     &nbsp;&nbsp;
     <a href="https://www.kaggle.com/sreedharrdy" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="shivangikochrekar" /></a>
   
