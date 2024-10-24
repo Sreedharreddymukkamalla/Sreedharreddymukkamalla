@@ -8,8 +8,8 @@
 - 📫 How to reach me: **srmukkam@syr.edu**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun facts:
-  **I'm an avid rock climber who loves scaling new heights 🧗‍♂️**
-  **I enjoy strategizing on the chessboard as a passionate chess player ♟️**
+  - **I'm an avid rock climber who loves scaling new heights 🧗‍♂️**
+  - **I enjoy strategizing on the chessboard as a passionate chess player ♟️**
 
 <h2 align="left">☕ Get in Touch</h2>
 <p align="left">
