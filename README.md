@@ -57,8 +57,6 @@
 <h2 align="left"> 🔥 Stats</h2>
 <img align="center" src="https://streak-stats.demolab.com?user=Sreedharreddymukkamalla&theme=tokyonight&hide_current_streak=true" alt="shivangik01"/>          
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreedharreddymukkamalla&show_icons=true&theme=tokyonight&include_all_commits=true&hide=tsql,ShaderLab,CSS,jupyter%20notebook"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivangik01&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
 
 
-<img src="https://komarev.com/ghpvc/?username=shivangik01&style=flat-square&color=blue" alt=""/>
