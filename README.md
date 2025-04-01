@@ -2,7 +2,7 @@
 
 <h2 align="left"> 💫 About Me: </h2>
 
-- 👨‍💻 I am a **Computer Science Engineering Student** 
+- 👨‍💻 I am a **Computer Science Engineering Graduate** 
 - 🌱 I’m currently learning **Go**
 - 💬 Ask me about **Java,Python**
 - 📫 How to reach me: **srmukkam@syr.edu**
